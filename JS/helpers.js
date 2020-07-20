@@ -21,3 +21,4 @@ export const imgLog = (imgCrs, logName) => {
       e.appendChild(div);
     });
   };
+  

@@ -46,7 +46,6 @@ header a{
     box-shadow: 1px 2px 0.2px 0.5px rgba(0, 0, 0, 0.521);
     transition: 0.3s;
     background-color: white;
-    /* text-align: center; */
 }
 #search:hover{
     background-color: rgb(253, 208, 208);
